@@ -1,0 +1,5 @@
+baseURL = 'http://shimizu1010.github.ios/'
+languageCode = 'en-us'
+title = 'Shimizu Aogu'
+theme = "hugo-theme-stack"
+publishDir = "docs"
